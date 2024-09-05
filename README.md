@@ -88,14 +88,14 @@ JWT_SECRET=your-jwt-secret-key
 
 ```bash
 cd server
-npm start
+npm run dev
 ```
 
 #### Frontend
 
 ```bash
 cd client
-npm start
+npm run dev
 ```
 
 Now, open your browser and go to `http://localhost:3000`.
@@ -128,8 +128,3 @@ For any questions or issues, please contact:
 
 - **Your Name**: [aryankhatri.forwork@gmail.com](mailto:aryankhatri.forwork@gmail.com)
 - GitHub: [https://github.com/aryanDevAk](https://github.com/aryanDevAk)
-
-```
-
-This template provides a clean, structured, and detailed README file in a GitHub-friendly format. Be sure to replace placeholder text (like "your-username" and "your.email@example.com") with your actual information.
-```
