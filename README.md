@@ -1,6 +1,3 @@
-Apologies for the confusion earlier! Here’s a more structured and properly formatted **GitHub README** file for your MERN stack book store project with Tailwind CSS:
-
-````md
 # 📚 Book Store - MERN Stack Project
 
 A full-stack Book Store web application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. The app allows users to browse, purchase books, and manage their accounts. Admin users can manage books and orders.
