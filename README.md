@@ -22,7 +22,6 @@ A full-stack Book Store web application built using the MERN stack (MongoDB, Exp
 - **Deployment**: (Optional: Mention your deployment platform like Heroku, Vercel, etc.)
 
 ## 📂 Folder Structure
-
 ```bash
 book-store/
 ├── client/                  # Frontend (React + Tailwind CSS)
@@ -40,9 +39,8 @@ book-store/
 │
 └── README.md                # Project documentation
 ```
-````
 
-## 🔧 Installation
+# 🔧 Installation
 
 To run this project locally, follow these steps:
 
@@ -128,8 +126,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or issues, please contact:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
+- **Your Name**: [aryankhatri.forwork@gmail.com](mailto:aryankhatri.forwork@gmail.com)
+- GitHub: [https://github.com/aryanDevAk](https://github.com/aryanDevAk)
 
 ```
 
