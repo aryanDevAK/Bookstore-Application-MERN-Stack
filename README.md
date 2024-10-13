@@ -1,6 +1,3 @@
-Apologies for the confusion earlier! Here’s a more structured and properly formatted **GitHub README** file for your MERN stack book store project with Tailwind CSS:
-
-````md
 # 📚 Book Store - MERN Stack Project
 
 A full-stack Book Store web application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. The app allows users to browse, purchase books, and manage their accounts. Admin users can manage books and orders.
@@ -25,7 +22,6 @@ A full-stack Book Store web application built using the MERN stack (MongoDB, Exp
 - **Deployment**: (Optional: Mention your deployment platform like Heroku, Vercel, etc.)
 
 ## 📂 Folder Structure
-
 ```bash
 book-store/
 ├── client/                  # Frontend (React + Tailwind CSS)
@@ -43,9 +39,8 @@ book-store/
 │
 └── README.md                # Project documentation
 ```
-````
 
-## 🔧 Installation
+# 🔧 Installation
 
 To run this project locally, follow these steps:
 
@@ -93,14 +88,14 @@ JWT_SECRET=your-jwt-secret-key
 
 ```bash
 cd server
-npm start
+npm run dev
 ```
 
 #### Frontend
 
 ```bash
 cd client
-npm start
+npm run dev
 ```
 
 Now, open your browser and go to `http://localhost:3000`.
@@ -131,10 +126,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or issues, please contact:
 
-- **Your Name**: [your.email@example.com](mailto:your.email@example.com)
-- GitHub: [https://github.com/your-username](https://github.com/your-username)
-
-```
-
-This template provides a clean, structured, and detailed README file in a GitHub-friendly format. Be sure to replace placeholder text (like "your-username" and "your.email@example.com") with your actual information.
-```
+- **Your Name**: [aryankhatri.forwork@gmail.com](mailto:aryankhatri.forwork@gmail.com)
+- GitHub: [https://github.com/aryanDevAk](https://github.com/aryanDevAk)
