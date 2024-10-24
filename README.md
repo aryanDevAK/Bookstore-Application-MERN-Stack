@@ -1,5 +1,5 @@
 # 📚 Book Store - MERN Stack Project
-[[Live Site](https://project-10-books-app.netlify.app/)]
+[Live Site](https://project-10-books-app.netlify.app/)
 - 
 A full-stack Book Store web application built using the MERN stack (MongoDB, Express, React, Node.js) and styled with Tailwind CSS. The app allows users to manage books datasets.
 
